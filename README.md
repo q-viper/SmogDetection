@@ -1,6 +1,6 @@
 # Smog-Detection
 This repository is created while attending Udacity's Secure and Private AI Challange.
-## Dataset available on: <a href = "https://sites.google.com/view/reside-dehaze-datasets"> Here</a>
+## Haze/Dehaze Dataset available on: <a href = "https://sites.google.com/view/reside-dehaze-datasets"> Here</a>
 
 <h2 align = "center"> What i did? </h2>
 <h3> Try1: </h3>
@@ -12,3 +12,6 @@ This repository is created while attending Udacity's Secure and Private AI Chall
 <h3> Try2:</h3>
 * Used Google Colaboratory. And used VGG net.
 * Got accuracy 90%.
+
+# SmogDetection4000 dataset
+This dataset was created by group members of Secure and Private AI Challange by Udacity.
