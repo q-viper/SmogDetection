@@ -54,4 +54,4 @@ The Final block is for linear layers. It has:
 * Usage of less parameters
 * Test with different optimizer and loss functions
 
-## Find the Pytorch code for this project [here](#). 
+## Find the Pytorch code for this project [here](https://github.com/souravs17031999/SmogDetection). 
